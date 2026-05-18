@@ -103,3 +103,35 @@ main {
     padding: 1rem;
   }
 }
+
+.personal{
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-direction: column;
+
+}
+
+.skills{
+  display: block;
+
+ 
+
+}
+li{
+  text-decoration: none;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.education{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+  text-align: center;
+}
